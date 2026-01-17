@@ -8,16 +8,9 @@ If an idea sticks, I usually turn it into something runnable.
 My main stack is Python, with a focus on agentic AI systems, local LLMs,
 machine learning, data-centric workflows, and retrieval-augmented generation.
 
-Tech Focus
+## Tools & Tech
+- Python / R / SQL  
+- LangGraph · PydanticAI · Ollama  
+- Docker · Linux
 
-Languages:
-Python · R · SQL
 
-Frameworks & AI:
-LangGraph · Ollama · PydanticAI
-
-Focus Areas:
-Agentic AI · Local LLMs · RAG · Machine Learning · Data Science
-
-Infrastructure:
-Docker · Linux
